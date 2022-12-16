@@ -9,7 +9,7 @@
 \-
 -
 
-***"Your kind is blind, child. Nothing will change that. From the dawn of time till its end, they will only see what they want to."***
+***"Your kind is blind, child. Nothing will change that. From the dawn of time until its end, they will only see what they want to."***
 <!---
 ZeroPointNothing/ZeroPointNothing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
