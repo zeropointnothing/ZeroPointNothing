@@ -1,13 +1,20 @@
-- Hi, I’m @ZeroPointNothing!
+```python
+"""
+I can code stuff sometimes (a lot, actually). I also like to write stories because that's pretty fun, too.
+"""
 
-- I’m interested in trying to learn as much as I can and to make something with it.
-- I’m currently learning Python, web development stuff and a bit of Roblox's Lua.
-- I’m looking to collaborate on anything that I could learn along the way in.
-- 📫 How to reach me: ZeroPointNothing@outlook.com
+def hello_world()
+  print("I know a handful of languages, and that will only get larger >:D")
 
--
-\-
--
+  return "You might find one of my silly little projects useful, or you might not. Who's to say but you?"
+
+hello_world()
+```
+
+
+anyway, qoute time.
+
+---
 
 ***"Your kind is blind, child. Nothing will change that. From the dawn of time until its end, they will only see what they want to."***
 <!---
