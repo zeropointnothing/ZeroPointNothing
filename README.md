@@ -1,6 +1,8 @@
 ```python
 """
-I can code stuff sometimes (a lot, actually). I also like to write stories because that's pretty fun, too.
+A little boi with ADHD and way too much time on his hands.
+
+I love to code and write stories with friends on Discord (or anywhere I can, really).
 """
 
 def hello_world()
