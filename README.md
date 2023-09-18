@@ -18,7 +18,7 @@ anyway, qoute time.
 
 ---
 
-***"Your kind is blind, child. Nothing will change that. From the dawn of time until its end, they will only see what they want to."***
+***"It is more than just a project. It is a Voyage. A Story. A Meaning. A Way of Life. :[==]: USQUE AD ULTIMAM STELLAM"***
 <!---
 ZeroPointNothing/ZeroPointNothing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
