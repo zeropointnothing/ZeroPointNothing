@@ -26,7 +26,7 @@ anyway, qoute time.
 
 ---
 
-***"It is more than just a project. It is a Voyage. A Story. A Meaning. A Way of Life. :[==]: USQUE AD ULTIMAM STELLAM"***
+***"aWxsIGJlIHdhaXRpbmcgZm9yIHlvdS4gd2hlcmV2ZXIgeW91IGFyZS4uLg=="***
 <!---
 ZeroPointNothing/ZeroPointNothing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
