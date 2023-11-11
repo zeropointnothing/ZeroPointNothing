@@ -1,16 +1,24 @@
 ```python
-"""
-A little boi with ADHD and way too much time on his hands.
+class ZeroPointNothing:
+    def __init__(self) -> None:
+        self.languages = ["Python", "C/C++,C#", "HTML/CSS/JS"]
+        self.prjtypes = ["apis", "websites", "desktop_applications"]
+        self.extras = {"writer": ["discord_highlevel_roleplay", "novels"]}
 
-I love to code and write stories with friends on Discord (or anywhere I can, really).
-"""
+    def intro(self):
+        print("Hi there! I've made plenty of different kinds of projects, and will probably keep making them for awhile.")
+        print("\nMost of my time is spent writing, listening to music, or coding something for some project of mine here on GitHub.")
+        print("My most interesting projects are probably MoniPY and the Navalii Web Browser. Go check them out sometime!")
+    
+    def hello(self):
+        return "world!"
 
-def hello_world()
-  print("I know a handful of languages, and that will only get larger >:D")
 
-  return "You might find one of my silly little projects useful, or you might not. Who's to say but you?"
+me = ZeroPointNothing()
+me.intro()
+me.hello()
+# Hello world!
 
-hello_world()
 ```
 
 
