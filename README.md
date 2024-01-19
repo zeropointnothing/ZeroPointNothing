@@ -1,33 +1,16 @@
-```python
-class ZeroPointNothing:
-    def __init__(self) -> None:
-        self.languages = ["Python", "C/C++,C#", "HTML/CSS/JS"]
-        self.prjtypes = ["apis", "websites", "desktop_applications"]
-        self.extras = {"writer": ["discord_highlevel_roleplay", "novels"]}
-
-    def intro(self):
-        print("Hi there! I've made plenty of different kinds of projects, and will probably keep making them for awhile.")
-        print("\nMost of my time is spent writing, listening to music, or coding something for some project of mine here on GitHub.")
-        print("My most interesting projects are probably MoniPY and the Navalii Web Browser. Go check them out sometime!")
-    
-    def hello(self):
-        return "world!"
-
-
-me = ZeroPointNothing()
-me.intro()
-me.hello()
-# Hello world!
-
-```
-
-
-anyway, qoute time.
+exii, ZeroPointNothing, SOL.
 
 ---
 
-***"aWxsIGJlIHdhaXRpbmcgZm9yIHlvdS4gd2hlcmV2ZXIgeW91IGFyZS4uLg=="***
-<!---
-ZeroPointNothing/ZeroPointNothing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Just a random nerd coding in Python.
+
+## Things I Do
+
+- Python Development (i <3 python :D)
+- Experimentation (and willing to learn for whatever project) in other languages.
+- Story Writer (both through mini-stories over Discord and full-length novels)
+- Music Addict (over 5000 songs liked on spotify)
+
+## Contact
+
+The best way to contact me is over Discord at either `@zeropointnothing` or `@zer0pointnothing`(alt). If I'm not busy or asleep, I should get to you pretty quickly.
