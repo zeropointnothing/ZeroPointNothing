@@ -1,7 +1,9 @@
+<!--
 <p align="center" position="relative">
   <img src="https://github.com/zeropointnothing/ZeroPointNothing/blob/main/twinklingstars.svg"" width="100%" height="100%" zindex="1">
 </p>
-
+hidden for performance. (high cpu for some reason)
+-->
 exii, ZeroPointNothing, SOL.
 
 ---
