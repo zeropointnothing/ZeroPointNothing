@@ -2,31 +2,29 @@
 <p align="center" position="relative">
   <img src="https://github.com/zeropointnothing/ZeroPointNothing/blob/main/twinklingstars.svg"" width="100%" height="100%" zindex="1">
 </p>
-hidden for performance. (high cpu for some reason)
+hidden for performance. (high cpu for some reason. i blame the divs.)
 -->
-exii, ZeroPointNothing, SOL.
+# Hey there!
 
----
-
-Just a random nerd coding in Python and writing in English.
+I'm zeropointnothing, or as most people call me, exii!
 
 ## Things I Do
 
-- Python Development (i <3 python :D)
-- Experimentation (and willing to learn for whatever project) in other languages.
-- Story Writer (both through mini-stories over Discord and full-length novels)
-- Music Addict (over 2000 songs liked on spotify)
+- Programmer (Mainly in Python (<3), but trying new things every now and then)
+- Story Writer (Mainly as short stories with buddies on my Discord, but also full-length novels on other platforms!)
+- Music Addict (almost constantly listening to music/2000+ liked songs on spotify)
 
 ## Contact
 
 The best way to contact me is over Discord at either `@zeropointnothing` or `@zer0pointnothing`(alt). If I'm not busy or asleep, I should get to you pretty quickly.
 
+I'm also the owner of a small (though passionate) writing community on Discord. Interested? Ask me about it!
+
 ## Links
 
-Interested in some of my other non-coding related work?
-
+I do a *lot* of stuff. If you're interested in any of that, check me out on some of these other platforms!
 <!-- 
 woah html
 -->
 
-- <a href="https://www.wattpad.com/user/zeropointnothing"><img src="https://github.com/zeropointnothing/ZeroPointNothing/blob/main/wplinkicon.png?raw=true" height=10px width=10px> Wattpad</a>
+- <a href="https://www.wattpad.com/user/zeropointnothing"><img src="https://github.com/zeropointnothing/ZeroPointNothing/blob/main/wplinkicon.png?raw=true" height=10px width=10px> Wattpad (full length novels, not anything weird)</a>
