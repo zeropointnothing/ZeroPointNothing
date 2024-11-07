@@ -12,7 +12,14 @@ I'm zeropointnothing, or as most people call me, exii!
 
 - Programmer (Mainly in Python (<3), but trying new things every now and then)
 - Story Writer (Mainly as short stories with buddies on my Discord, but also full-length novels on other platforms!)
-- Music Addict (almost constantly listening to music/2000+ liked songs on spotify)
+- Music Addict
+
+## Proud Creations
+
+- ZRpB (PSOMI) : A Discord "proxy" bot to aid in the writing experience. Only available on my community server.
+- koulouri : A Python music player that aims to be simple, lightweight, and functional.
+- "PyVPN" : A VPN created entirely in Python. (not publicly available, *yet*)
+- And more!
 
 ## Contact
 
