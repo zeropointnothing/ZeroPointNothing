@@ -18,6 +18,7 @@ I'm zeropointnothing, or as most people call me, exii!
 
 - ZRpB (PSOMI) : A Discord "proxy" bot to aid in the writing experience. Only available on my community server.
 - koulouri : A Python music player that aims to be simple, lightweight, and functional.
+- synthLength : An "online radio" written in Python.
 - "PyVPN" : A VPN created entirely in Python. (not publicly available, *yet*)
 - And more!
 
