@@ -28,11 +28,18 @@ The best way to contact me is over Discord at either `@zeropointnothing` or `@ze
 
 I'm also the owner of a small (though passionate) writing community on Discord. Interested? Ask me about it!
 
+## Writing
+
+Unfortunately, I don't have anything writing related published yet. Stay tuned, though!
+
+<!-- 
 ## Links
 
 I do a *lot* of stuff. If you're interested in any of that, check me out on some of these other platforms!
-<!-- 
+
 woah html
--->
 
 - <a href="https://www.wattpad.com/user/zeropointnothing"><img src="https://github.com/zeropointnothing/ZeroPointNothing/blob/main/wplinkicon.png?raw=true" height=10px width=10px> Wattpad (full length novels, not anything weird)</a>
+-->
+
+
