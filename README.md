@@ -4,6 +4,8 @@
 </p>
 hidden for performance. (high cpu for some reason. i blame the divs.)
 -->
+
+![BLACKSKIES_banner](https://github.com/user-attachments/assets/844faa45-a817-4661-a06a-3d1100d4b554)
 # Hey there!
 
 I'm zeropointnothing, or as most people call me, exii!
