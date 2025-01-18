@@ -6,18 +6,14 @@ hidden for performance. (high cpu for some reason. i blame the divs.)
 -->
 
 ![BLACKSKIES_banner](https://github.com/user-attachments/assets/844faa45-a817-4661-a06a-3d1100d4b554)
-# Hey there!
 
-I'm zeropointnothing, or as most people call me, exii!
+Programmer (<3 Python), writer (novels, short stories), and music lover.
 
-## Things I Do
-
-- Programmer (Mainly in Python (<3), but trying new things every now and then)
-- Story Writer (Mainly as short stories with buddies on my Discord, but also full-length novels on other platforms!)
-- Music Addict
+~ *zeropointnothing, exii* ~
 
 ## Proud Creations
 
+- WHAT LURKS WITHIN: An interactive novel experience, where your choices matter. My first game!!
 - ZRpB (PSOMI) : A Discord "proxy" bot to aid in the writing experience. Only available on my community server.
 - koulouri : A Python music player that aims to be simple, lightweight, and functional.
 - synthLength : An "online radio" written in Python.
