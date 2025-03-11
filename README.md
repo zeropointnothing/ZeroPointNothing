@@ -18,6 +18,7 @@ Programmer (<3 Python), writer (novels, short stories), and music lover.
 - koulouri : A Python music player that aims to be simple, lightweight, and functional.
 - synthLength : An "online radio" written in Python.
 - "PyVPN" : A VPN created entirely in Python. (not publicly available, *yet*)
+- jPowder: A fun (though basic) little powder simulation game made in Java.
 - And more!
 
 ## Contact
