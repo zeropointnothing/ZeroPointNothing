@@ -27,9 +27,17 @@ The best way to contact me is over Discord at either `@zeropointnothing` or `@ze
 
 I'm also the owner of a small (though passionate) writing community on Discord. Interested? Ask me about it!
 
+## Programming
+
+I write programs mainly in Python due to my love of OOP and the language's flexibilty compared to most other languages. However, I'm currently experimenting with the Java langauge as well!
+
+Mostly driven by boredom and my extreme lack of things to do, I often mess around with topics that I'm currently interested in. This tends to lead to things such as [synthLength](https://github.com/zeropointnothing/radio) or [jPowder](https://github.com/zeropointnothing/jpowder) being born simply for the sake of creating them.
+
+Alternatively, I like to create applications that just make life easier for myself or other people. [koulouri](https://github.com/zeropointnothing/koulouri) is a perfect example—a music player I made solely because I couldn't find another one I liked for the Arch Linux platform. If you are intrested in any of my projects, I would check these out first, as they're the most polished and are likely the least buggy.
+
 ## Writing
 
-Unfortunately, I don't have anything writing related published yet. Stay tuned, though!
+_Currently working on Betwixt Chains. Stay tuned!_
 
 <!-- 
 ## Links
